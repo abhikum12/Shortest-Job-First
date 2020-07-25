@@ -5,7 +5,6 @@ rst come first serve header
 
 #include<iostream>
 #include<cstdio>
-
 using namespace std;
 
 
